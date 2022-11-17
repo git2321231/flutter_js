@@ -1,0 +1,12 @@
+.DS_Store
+.dart_tool/
+
+.packages
+.pub/
+
+build/
+.idea/
+
+**/macos/flutter/ephemeral
+**/windows/flutter/ephemeral
+**/linux/flutter/ephemeral
